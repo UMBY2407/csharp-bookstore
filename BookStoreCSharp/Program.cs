@@ -9,3 +9,5 @@ float bookWidth = 17.78f;
 float bookLenght = 23.37f;
 float bookHeight = 2.79f;
 
+//Acquisire le informazioni di Amazon
+
